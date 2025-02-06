@@ -1,0 +1,2 @@
+# VBScript Implicit Type Coercion Bug
+This repository demonstrates a common error in VBScript related to implicit type coercion.  VBScript's loose typing can lead to unexpected behavior if you don't explicitly handle data types.  The `bug.vbs` file showcases the issue, while `bugSolution.vbs` provides a corrected version.
